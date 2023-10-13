@@ -1,0 +1,38 @@
+div#container {
+    gap: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 250px;
+}
+
+
+
+button#btn1 {
+    width: 20%;
+    height: 53px;
+    margin: 57px;
+}
+
+button#btn {
+    width: 20%;
+    height: 63px;
+    margin: 57px;
+}
+#container1 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6%;
+    width: 100%;
+    text-align: center;
+}
+
+
+#image {
+    width: 34%;
+    height: 238px;
+}

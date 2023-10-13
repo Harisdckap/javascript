@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12%;
+    gap: 17%;
+}
+button#con1 {
+    width: 20%;
+    height: 58px;
+}
+h1 {
+  text-align: center;  
+}
