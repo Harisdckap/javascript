@@ -1,13 +1,24 @@
 .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 12%;
-    gap: 17%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5%;
+  gap: 17%;
+  height: 282px;
+  width: 83%;
+  height: 125px;
 }
 button#con1 {
-    width: 20%;
-    height: 58px;
+  width: 12%;
+  height: 44px;
+}
+button#con2 {
+  width: 12%;
+  height: 47px;
+}
+button#con3 {
+  width: 12%;
+  height: 47px;
 }
 h1 {
   text-align: center;  

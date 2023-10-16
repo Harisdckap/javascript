@@ -31,8 +31,10 @@ let color1 = 0
 
 btn.addEventListener("click", add)
 function add() {
+    if (color1<15) {
     document.body.style.background = Color[color1]
     btn1.innerText = Color[color1]
     color1++;
+    }
 }
 
